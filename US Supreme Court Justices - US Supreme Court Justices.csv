@@ -1,0 +1,106 @@
+id,Justice number,Justice,Year of birth,State,Position,Succeeded,Date confirmed,Tenure length,Nominated by
+1,1,John Jay,1745,NY,ChiefJustice,Inaugural,"September 26, 1789",5 ,George Washington
+2,2,John Rutledge,1739,SC,AssociateJustice,Inaugural,"September 26, 1789",1 ,George Washington
+3,3,William Cushing,1732,MA,AssociateJustice,Inaugural,"September 26, 1789",20 ,George Washington
+4,4,James Wilson,1742,PA,AssociateJustice,Inaugural,"September 26, 1789",8 ,George Washington
+5,5,John Blair,1732,VA,AssociateJustice,Inaugural,"September 26, 1789",5 ,George Washington
+6,6,James Iredell,1751,NC,AssociateJustice,Inaugural,"February 10, 1790",9 ,George Washington
+7,7,Thomas Johnson,1732,MD,AssociateJustice,J. Rutledge,"November 7, 1791",0.44,George Washington
+8,8,William Paterson,1745,NJ,AssociateJustice,T. Johnson,"March 4, 1793",13 ,George Washington
+9,9,Samuel Chase,1741,MD,AssociateJustice,Blair,"January 27, 1796",15 ,George Washington
+10,10,Oliver Ellsworth,1745,CT,ChiefJustice,J. Rutledge,"March 4, 1796",4 ,George Washington
+11,11,Bushrod Washington,1762,VA,AssociateJustice,Wilson,"December 20, 1798",31 ,John Adams
+12,12,Alfred Moore,1755,NC,AssociateJustice,Iredell,"December 9, 1799",3 ,John Adams
+13,13,John Marshall,1755,VA,ChiefJustice,Ellsworth,"January 27, 1801",34 ,John Adams
+14,14,William Johnson,1771,SC,AssociateJustice,Moore,"March 24, 1804",30 ,Thomas Jefferson
+15,15,Henry Brockholst Livingston,1757,NY,AssociateJustice,Paterson,"December 17, 1806",16 ,Thomas Jefferson
+16,16,Thomas Todd,1765,KY,AssociateJustice,new seat,"March 2, 1807",19 ,Thomas Jefferson
+17,17,Gabriel Duvall,1752,MD,AssociateJustice,S. Chase,"November 18, 1811",23 ,James Madison
+18,18,Joseph Story,1778,MA,AssociateJustice,Cushing,"November 18, 1811",33,James Madison
+19,19,Smith Thompson,1768,NY,AssociateJustice,Livingston,"December 9, 1823",20 ,James Monroe
+20,20,Robert Trimble,1776,KY,AssociateJustice,Todd,"May 9, 1826",2 ,John Quincy Adams
+21,21,John McLean,1785,OH,AssociateJustice,Trimble,"March 7, 1829",31,Andrew Jackson
+22,22,Henry Baldwin,1780,PA,AssociateJustice,Washington,"January 6, 1830",14 ,Andrew Jackson
+23,23,James Moore Wayne,1790,GA,AssociateJustice,W. Johnson,"January 9, 1835",32,Andrew Jackson
+24,24,Roger B. Taney,1777,MD,ChiefJustice,J. Marshall,"March 15, 1836",28 ,Andrew Jackson
+25,25,Philip Pendleton Barbour,1783,VA,AssociateJustice,Duvall,"March 15, 1836",4 ,Andrew Jackson
+26,26,John Catron,1786,TN,AssociateJustice,new seat,"March 8, 1837",28 ,Andrew Jackson
+27,27,John McKinley,1780,AL,AssociateJustice,new seat,"September 25, 1837",14 ,Martin Van Buren
+28,28,Peter Vivian Daniel,1784,VA,AssociateJustice,Barbour,"March 2, 1841",18 ,Martin Van Buren
+29,29,Samuel Nelson,1792,NY,AssociateJustice,Thompson,"February 14, 1845",27 ,John Tyler
+30,30,Levi Woodbury,1789,NH,AssociateJustice,Story,"January 31, 1846",5 ,James K. Polk
+31,31,Robert Cooper Grier,1794,PA,AssociateJustice,Baldwin,"August 4, 1846",23 ,James K. Polk
+32,32,Benjamin Robbins Curtis,1809,MA,AssociateJustice,Woodbury,"December 20, 1851",5 ,Millard Fillmore
+33,33,John Archibald Campbell,1811,AL,AssociateJustice,McKinley,"March 22, 1853",8 ,Franklin Pierce
+34,34,Nathan Clifford,1803,ME,AssociateJustice,Curtis,"January 12, 1858",23 ,James Buchanan
+35,35,Noah Haynes Swayne,1804,OH,AssociateJustice,McLean,"January 24, 1862",18 ,Abraham Lincoln
+36,36,Samuel Freeman Miller,1816,IA,AssociateJustice,Daniel,"July 16, 1862",28 ,Abraham Lincoln
+37,37,David Davis,1815,IL,AssociateJustice,Campbell,"December 8, 1862",14 ,Abraham Lincoln
+38,38,Stephen Johnson Field,1816,CA,AssociateJustice,new seat,"March 10, 1863",34 ,Abraham Lincoln
+39,39,Salmon P. Chase,1808,OH,ChiefJustice,Taney,"December 6, 1864",8 ,Abraham Lincoln
+40,40,William Strong,1808,PA,AssociateJustice,Grier,"February 18, 1870",10 ,Ulysses S. Grant
+41,41,Joseph P. Bradley,1813,NJ,AssociateJustice,new seat,"March 21, 1870",21 ,Ulysses S. Grant
+42,42,Ward Hunt,1810,NY,AssociateJustice,Nelson,"December 11, 1872",9 ,Ulysses S. Grant
+43,43,Morrison Waite,1816,OH,ChiefJustice,S. P. Chase,"January 21, 1874",14 ,Ulysses S. Grant
+44,44,John Marshall Harlan,1833,KY,AssociateJustice,Davis,"November 29, 1877",33 ,Rutherford B. Hayes
+45,45,William Burnham Woods,1824,GA,AssociateJustice,Strong,"December 21, 1880",6 ,Rutherford B. Hayes
+46,46,Stanley Matthews,1824,OH,AssociateJustice,Swayne,"May 12, 1881",7 ,James A. Garfield
+47,47,Horace Gray,1828,MA,AssociateJustice,Clifford,"December 20, 1881",20 ,Chester A. Arthur
+48,48,Samuel Blatchford,1820,NY,AssociateJustice,Hunt,"March 22, 1882",11 ,Chester A. Arthur
+49,49,Lucius Quintus Cincinnatus Lamar II,1825,MS,AssociateJustice,Woods,"January 16, 1888",5 ,Grover Cleveland
+50,50,Melville Fuller,1833,IL,ChiefJustice,Waite,"July 20, 1888",21 ,Grover Cleveland
+51,51,David Josiah Brewer,1837,KS,AssociateJustice,Matthews,"December 18, 1889",20 ,Benjamin Harrison
+52,52,Henry Billings Brown,1836,MI,AssociateJustice,Miller,"December 29, 1890",16 ,Benjamin Harrison
+53,53,George Shiras Jr.,1832,PA,AssociateJustice,Bradley,"July 26, 1892",10 ,Benjamin Harrison
+54,54,Howell Edmunds Jackson,1832,TN,AssociateJustice,L. Lamar,"February 18, 1893",2 ,Benjamin Harrison
+55,55,Edward Douglass White,1845,LA,AssociateJustice,Blatchford,"February 19, 1894",16 ,Grover Cleveland
+56,56,Rufus W. Peckham,1838,NY,AssociateJustice,H. Jackson,"December 9, 1895",13 ,Grover Cleveland
+57,57,Joseph McKenna,1843,CA,AssociateJustice,Field,"January 21, 1898",26 ,William McKinley
+58,58,Oliver Wendell Holmes Jr.,1841,MA,AssociateJustice,Gray,"December 4, 1902",29 ,Theodore Roosevelt
+59,59,William R. Day,1849,OH,AssociateJustice,Shiras,"February 23, 1903",19,Theodore Roosevelt
+60,60,William Henry Moody,1853,MA,AssociateJustice,Brown,"December 12, 1906",3 ,Theodore Roosevelt
+61,61,Horace Harmon Lurton,1844,TN,AssociateJustice,Peckham,"December 20, 1909",4 ,William Howard Taft
+62,62,Charles Evans Hughes,1862,NY,AssociateJustice,Brewer,"May 2, 1910",5 ,William Howard Taft
+63,63,Willis Van Devanter,1859,WY,AssociateJustice,E. D. White,"December 15, 1910",26 ,William Howard Taft
+64,64,Joseph Rucker Lamar,1857,GA,AssociateJustice,Moody,"December 15, 1910",5 ,William Howard Taft
+65,65,Mahlon Pitney,1858,NJ,AssociateJustice,J. Harlan,"March 13, 1912",10 ,William Howard Taft
+66,66,James Clark McReynolds,1862,TN,AssociateJustice,Lurton,"August 29, 1914",26 ,Woodrow Wilson
+67,67,Louis Brandeis,1856,KY,AssociateJustice,J. Lamar,"June 1, 1916",22 ,Woodrow Wilson
+68,68,John Hessin Clarke,1857,OH,AssociateJustice,Hughes,"July 24, 1916",6 ,Woodrow Wilson
+69,69,William Howard Taft,1857,CT,ChiefJustice,E. D. White,"June 30, 1921",8 ,Warren G. Harding
+70,70,George Sutherland,1862,UT,AssociateJustice,Clarke,"September 5, 1922",15 ,Warren G. Harding
+71,71,Pierce Butler,1866,MN,AssociateJustice,Day,"December 21, 1922",16 ,Warren G. Harding
+72,72,Edward Terry Sanford,1865,TN,AssociateJustice,Pitney,"January 29, 1923",7 ,Warren G. Harding
+73,73,Harlan F. Stone,1872,NY,AssociateJustice,McKenna,"February 5, 1925",16 ,Calvin Coolidge
+74,74,Owen Roberts,1875,PA,AssociateJustice,Sanford,"May 20, 1930",15 ,Herbert Hoover
+75,75,Benjamin N. Cardozo,1870,NY,AssociateJustice,Holmes,"February 24, 1932",6 ,Herbert Hoover
+76,76,Hugo Black,1886,AL,AssociateJustice,Van Devanter,"August 17, 1937",34 ,Franklin D. Roosevelt
+77,77,Stanley Forman Reed,1884,KY,AssociateJustice,Sutherland,"January 25, 1938",19 ,Franklin D. Roosevelt
+78,78,Felix Frankfurter,1882,MA,AssociateJustice,Cardozo,"January 17, 1939",23 ,Franklin D. Roosevelt
+79,79,William O. Douglas,1898,CT,AssociateJustice,Brandeis,"April 4, 1939",36 ,Franklin D. Roosevelt
+80,80,Frank Murphy,1890,MI,AssociateJustice,Butler,"January 16, 1940",9 ,Franklin D. Roosevelt
+81,81,James F. Byrnes,1882,SC,AssociateJustice,McReynolds,"June 12, 1941",1 ,Franklin D. Roosevelt
+82,82,Robert H. Jackson,1892,NY,AssociateJustice,Stone,"July 7, 1941",13 ,Franklin D. Roosevelt
+83,83,Wiley Blount Rutledge,1894,IA,AssociateJustice,Byrnes,"February 8, 1943",6 ,Franklin D. Roosevelt
+84,84,Harold Hitz Burton,1888,OH,AssociateJustice,O. Roberts,"September 19, 1945",13 ,Harry S. Truman
+85,85,Fred M. Vinson,1890,KY,ChiefJustice,Stone,"June 20, 1946",7 ,Harry S. Truman
+86,86,Tom C. Clark,1899,TX,AssociateJustice,Murphy,"August 18, 1949",17 ,Harry S. Truman
+87,87,Sherman Minton,1890,IN,AssociateJustice,W. Rutledge,"October 4, 1949",7 ,Harry S. Truman
+88,88,Earl Warren,1891,CA,ChiefJustice,Vinson,"March 1, 1954",15 ,Dwight D. Eisenhower
+89,89,John Marshall Harlan,1899,NY,AssociateJustice,R. Jackson,"March 16, 1955",16 ,Dwight D. Eisenhower
+90,90,William J. Brennan Jr.,1906,NJ,AssociateJustice,Minton,"March 19, 1957",33 ,Dwight D. Eisenhower
+91,91,Charles Evans Whittaker,1901,MO,AssociateJustice,Reed,"March 19, 1957",5 ,Dwight D. Eisenhower
+92,92,Potter Stewart,1915,OH,AssociateJustice,Burton,"May 5, 1959",22 ,Dwight D. Eisenhower
+93,93,Byron White,1917,CO,AssociateJustice,Whittaker,"April 11, 1962",31 ,John F. Kennedy
+94,94,Arthur Goldberg,1908,IL,AssociateJustice,Frankfurter,"September 25, 1962",2 ,John F. Kennedy
+95,95,Abe Fortas,1910,TN,AssociateJustice,Goldberg,"August 11, 1965",3 ,Lyndon B. Johnson
+96,96,Thurgood Marshall,1908,NY,AssociateJustice,Clark,"August 30, 1967",23 ,Lyndon B. Johnson
+97,97,Warren E. Burger,1907,VA,ChiefJustice,Warren,"June 9, 1969",17 ,Richard Nixon
+98,98,Harry Blackmun,1908,MN,AssociateJustice,Fortas,"May 12, 1970",24 ,Richard Nixon
+99,99,Lewis F. Powell Jr.,1907,VA,AssociateJustice,Black,"December 6, 1971",15 ,Richard Nixon
+100,100,William Rehnquist,1924,AZ,AssociateJustice,J. Harlan II,"December 10, 1971",14 ,Richard Nixon
+101,101,John Paul Stevens,1920,IL,AssociateJustice,Douglas,"December 17, 1975",34 ,Gerald Ford
+102,102,Sandra Day O'Connor,1930,AZ,AssociateJustice,Stewart,"September 21, 1981",24 ,Ronald Reagan
+103,103,Antonin Scalia,1936,VA,AssociateJustice,Rehnquist,"September 17, 1986",29 ,Ronald Reagan
+104,104,Anthony Kennedy,1936,CA,AssociateJustice,Powell,"February 3, 1988",30 ,Ronald Reagan
+105,105,David Souter,1939,NH,AssociateJustice,Brennan,"October 2, 1990","18 years, 263 days",George H. W. Bush
